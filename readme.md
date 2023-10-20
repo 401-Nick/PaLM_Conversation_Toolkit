@@ -7,9 +7,8 @@ The PaLM Conversation Toolkit is a Node.js library that simplifies interaction w
 ## Installation
 
 Before using the PaLM Conversation Toolkit, make sure to install the necessary dependencies.
-
 ```bash
-npm install @google-ai/generativelanguage google-auth-library dotenv
+npm install palm-conversation-toolkit @google-ai/generativelanguage google-auth-library dotenv
 ```
 
 ## Setup
